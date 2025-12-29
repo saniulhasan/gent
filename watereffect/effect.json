@@ -30,7 +30,7 @@
                     "min": 992,
                     "props": {
                         "height": 127,
-                        "textContent": "Saniowl ",
+                        "textContent": "CanvasNebula",
                         "fontStyle": "800",
                         "fontFamily": "Gabarito",
                         "fontSize": 107,
@@ -110,7 +110,7 @@
             "fontStyle": "800",
             "fontWeight": "400",
             "textAlign": "center",
-            "textContent": "Saniowl ", 
+            "textContent": "CanvasNebula", 
             "gradientAngle": 0,
             "gradientType": "linear",
             "coords": [
@@ -210,7 +210,7 @@
         }
     ],
     "options": {
-        "name": "Saniowl ",
+        "name": "CanvasNebula",
         "fps": 60,
         "dpi": 1.5,
         "scale": 1,
