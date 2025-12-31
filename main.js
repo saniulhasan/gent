@@ -59,4 +59,12 @@ document.addEventListener("DOMContentLoaded", (event) => {
     opacity:0,
     y:850,
   })
+
+
+    
+
 })
+
+
+
+  
